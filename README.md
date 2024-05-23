@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/antoniomazzeo/">
-    <img src="https://img.shields.io/badge/-antonio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=585858&color=c02000">
+<a href="https://t.me/wolfcod">
+    <img src="https://img.shields.io/badge/-wolfcod-blue?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=0088cc&color=229ED9">
 </a>
 
 <!--
