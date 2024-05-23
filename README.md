@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/antoniomazzeo/">
+    <img src="https://img.shields.io/badge/-antonio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=585858&color=c02000">
+</a>
+
 <!--
 **wolfcod/wolfcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
