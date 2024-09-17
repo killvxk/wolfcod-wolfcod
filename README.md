@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://t.me/wolfcod">
-    <img src="https://img.shields.io/badge/-wolfcod-blue?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=0088cc&color=229ED9">
+    <img align="left" src="https://img.shields.io/badge/-wolfcod-blue?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=0088cc&color=229ED9">
 </a>
 <a href="https://t.me/wolfcod">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfcod&layout=compact&show_icons=true">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfcod&layout=compact&show_icons=true">
 </a>
 
 <!--
